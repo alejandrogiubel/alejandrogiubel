@@ -11,7 +11,7 @@ I am a software engineer graduated from Universidad Tecnológica de La Habana (C
 
 ### Github Stats
 
-[![Ale's Github Stats](https://github-readme-stats.vercel.app/api?username=alejandrogiubel&count_private=true&theme=city_lights&show_icons=true)](https://github.com/alejandrogiubel)
+[![Ale's Github Stats](https://github-stats-gamma-three.vercel.app/api?username=alejandrogiubel&count_private=true&theme=city_lights&show_icons=true)](https://github.com/alejandrogiubel)
 
 ### Top languages
 
