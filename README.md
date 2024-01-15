@@ -7,7 +7,6 @@ I am a software engineer graduated from Universidad Tecnológica de La Habana (C
 ![GitHub followers](https://img.shields.io/github/followers/alejandrogiubel?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/alejandrogiubel?style=social)
 <a href="https://profile.codersrank.io/user/alejandrogiubel"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=flat&logo=CodersRank&logoColor=white"/></a>
-<a href="https://user-badge.committers.top/cuba_private/alejandrogiubel"><img src="https://user-badge.committers.top/cuba_private/alejandrogiubel.svg"/></a>
 [![committers.top badge](https://user-badge.committers.top/cuba_private/alejandrogiubel.svg)](https://user-badge.committers.top/cuba_private/alejandrogiubel)
 
 
