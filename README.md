@@ -1,7 +1,7 @@
 ### Hi there <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
 
-Software Engineer (CUJAE '18) & open-source enthusiast. I believe that if something is broken, you fix it—and if you can't fix it, you find out why. Deeply passionate about the Flutter ecosystem and committed to contributing to the tech community.
+Senior Flutter Developer with 5+ years of experience delivering scalable, high-performance applications across Android, iOS, and web. Specialized in state management using BLoC and Riverpod, with a strong focus on building responsive, maintainable architectures and engaging user experiences. Thrives in remote environments, consistently delivering reliable and user-centric solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=alejandrogiubel&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/alejandrogiubel?style=social)
